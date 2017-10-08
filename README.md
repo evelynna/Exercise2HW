@@ -1,3 +1,7 @@
 # Exercise2HW
-repository for doing my homework.
-making conflict.
+
+Repository for doing my homework.
+I am making changes in the repository.
+Making conflict.
+I resolved the conflict.
+
