@@ -1,3 +1,6 @@
 Imagine this file fulfilled with content. Thank you.
 New changes.
 Changes.2.1.GitBash
+New changes. 
+Working with GitBash.2.1
+
