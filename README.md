@@ -5,5 +5,8 @@ I am making changes in the repository.
 Making conflict.
 I resolved the conflict.
 
-Working on master.
+
+Working on master plus
+Working on FirstBranch.Resolved.
+
 
